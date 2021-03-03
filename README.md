@@ -1,3 +1,3 @@
 # RuletaRusa
 
-##Como descargart los archivos
+## Como descargar los archivos
