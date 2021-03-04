@@ -46,7 +46,7 @@ Para que este proyecto funcione primero deberás de tener **`java`** instalado, 
 	
 	2. Pulsaremos en la opción "Nueva"  y le asignamos como **_“Nombre de la variable”_**: **JAVA_HOME** y como **_“Valor de variable”_** el path o ruta donde hemos instalado el JDK de nuestro java. Hay que reiniciar Windows tras realizar esto
 	
-	-**Para configurar PATH:**
+	- **Para configurar PATH:**
 
 	1.Realizaremos todos los pasos del punto anterior con la diferencia de que asignamos los siguientes valores: **_“Nombre de la variable“_**: PATH y **_“Valor de la variable”_**: **_%JAVA_HOME%\bin_**.
 	
