@@ -23,7 +23,8 @@ Para descargar archivos de github debemos realizar los siguientes pasos
 2. La otra forma posible sería usando la "tecla inicio" o la "tecla windows" y en el buscador escribir "cmd" o símbolo del sistema", ambas cosas son la terminal
 
 
-![image](https://user-images.githubusercontent.com/79007014/109996611-addf3500-7d0f-11eb-92bb-af3968001cd1.png) ![image](https://user-images.githubusercontent.com/79007014/109996704-c5b6b900-7d0f-11eb-8301-c89a66f4ac9e.png)
+![image](https://user-images.githubusercontent.com/79007014/109998660-c05a6e00-7d11-11eb-8b6f-c2ea83c7f62b.png)
+
 
 
 
