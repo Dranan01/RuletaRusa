@@ -38,8 +38,8 @@ Para que este proyecto funcione primero deberás de tener **`java`** instalado, 
 ![image](https://user-images.githubusercontent.com/79007014/110000145-44612580-7d13-11eb-9a67-297cf5272233.png)
 
 - En caso contrario de no tenerlo debemos instalarlo, para ello nos dirigiremos a la pagina de oficial de java y descargaremos e instalaremos l ultima versión de este: https://www.java.com/es/download/ie_manual.jsp?locale=es.
+- 
 
-### como añadir las variables de entorno.
 
 -En caso de no tener las variables de entorno **PATH** y **HOME** las podremos instalar de la siguiente manera: 
 
