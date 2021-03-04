@@ -71,5 +71,23 @@ Con esto ya quedarían configuradas las variables de entorno
 
 
 ## Compilar y ejecutar la aplicación por consola
+1. Para compilar la aplicación lo primero que se debe hacer es abrir la terminal y dirigirnos a la ubicación donde tenemos guardados los archivos, con el comando **`cd`** seguido de la ubicación a la que iremos: 
+
+![image](https://user-images.githubusercontent.com/79007014/110006313-c6ece380-7d19-11eb-98b3-24bb42fc6877.png)
+
+2. Tras llegar a la ubicación que queremos, usaremos **`dir`** para ver que archivos tenemos en la ubicación para asegurarnos de que estamos en el lugar correcto.
+3. El siguiente paso será compilar los archivos, para ello usaremos **`javac`** en todos los archivos descargados: 
+ 
+ ![image](https://user-images.githubusercontent.com/79007014/110006962-804bb900-7d1a-11eb-86e4-73cec85987ef.png)
+ 
+4. Tras terminar la compilación ya podremos ejecutar el juego, para ello usaremos el comando **`java`** de la siguiente forma: `java Juego.java`
+
+![image](https://user-images.githubusercontent.com/79007014/110007432-f2240280-7d1a-11eb-83d9-57dc12330b08.png)
+
+
+
+
+
+
 
 ## Manual de uso de la aplicación
