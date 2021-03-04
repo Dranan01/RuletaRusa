@@ -3,9 +3,9 @@
 ## Como descargar los archivos
 Para descargar archivos de github debemos realizar los siguientes pasos
 
-1-Debemos acceder al `link del proyecto` que en este caso es el de este proyecto: https://github.com/FranciscoMiguel01/RuletaRusa.git 
+1. Debemos acceder al `link del proyecto` que en este caso es el de este proyecto: https://github.com/FranciscoMiguel01/RuletaRusa.git 
+2. Como segundo paso debemos ir al apartado #### Code #### y ahi desplegar la barra desde la que podemos acceder a ´ download zip ´
 
-![image](https://user-images.githubusercontent.com/79007014/109847099-1c0ff300-7c4f-11eb-9ac6-f8b0b871759a.png)
 
 
 
