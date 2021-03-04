@@ -40,7 +40,8 @@ Para que este proyecto funcione primero deberás de tener **`java`** instalado, 
 - En caso contrario de no tenerlo debemos instalarlo, para ello nos dirigiremos a la pagina de oficial de java y descargaremos e instalaremos l ultima versión de este: https://www.java.com/es/download/ie_manual.jsp?locale=es.
 - 
 
- ### como añadir las variables de entorno
+ ## como añadir las variables de entorno
+ 
 En caso de no tener las variables de entorno **PATH** y **HOME** las podremos instalar de la siguiente manera: 
 
 -**Para configurar JAVA_HOME:** 
@@ -49,7 +50,7 @@ En caso de no tener las variables de entorno **PATH** y **HOME** las podremos in
 	
 	2. Pulsaremos en la opción "Nueva"  y le asignamos como **_“Nombre de la variable”_**: **JAVA_HOME** y como **_“Valor de variable”_** el path o ruta donde hemos instalado el JDK de nuestro java. Hay que reiniciar Windows tras realizar esto
 	
-	- **Para configurar PATH:**
+- **Para configurar PATH:**
 
 	1. Realizaremos todos los pasos del punto anterior con la diferencia de que asignamos los siguientes valores: **_“Nombre de la variable“_**: PATH y **_“Valor de la variable”_**: **_%JAVA_HOME%\bin_**.
 	
