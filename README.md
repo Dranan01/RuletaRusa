@@ -42,6 +42,8 @@ Para que este proyecto funcione primero deberás de tener **`java`** instalado, 
 
  ## como añadir las variables de entorno
  
+ Una variable de entorno es una variable dinámica que puede afectar al comportamiento de los procesos en ejecución en un ordenador. Son parte del entorno en el que se ejecuta un proceso
+ 
 En caso de no tener las variables de entorno **PATH** y **HOME** las podremos instalar de la siguiente manera: 
 
 - **Para configurar JAVA_HOME:** 
