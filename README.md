@@ -79,9 +79,14 @@ Con esto ya quedarían configuradas las variables de entorno.
 
 
 ## Manual de uso de la aplicación
-Una vez ejecutado el juego la primera parte será elegir un revolver, hay 2, cada uno es independiente del otro y tienen las mismas características, es decir, ambos tienen una bala colocada en una posicion aleatoria del cilindro o tambor, Se elegirán colocando el numero **1** o **2** 
+Una vez ejecutado el juego la primera parte será elegir un revolver, hay 2, cada uno es independiente del otro y tienen las mismas características, es decir, ambos tienen una bala colocada en una posicion aleatoria del cilindro o tambor, Se elegirán colocando el numero **1** o **2** .
+
 Al elegir uno de los revólveres saltará un mensaje que pedirá elegir 1 de entre los 6 jugadores, todos son iguales exceptuando por el nombre, los jugadores se elegirán igual que los revólveres, escribiendo un numero entre **1** y **6** incluyendo ambos.
+
 Tras elegir uno de los jugadores, se desplegará un menú de acciones en el que explicara las acciones que el jugador seleccionado puede realizar incluyendo una salida del juego, esta será el numero **5**.
+
 Cabe esperar que si un jugador tiene la mala suerte de que es disparado, este no podrá jugar mas ya que estará muerto y automáticamente una bala se volverá a poner en el tambor.
+
 Una vez todos los jugadores estén muertos tocará reiniciar el juego.
+
 a disfrutar!! :DD
