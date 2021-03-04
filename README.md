@@ -44,7 +44,7 @@ Para que este proyecto funcione primero deberás de tener **`java`** instalado, 
  
 En caso de no tener las variables de entorno **PATH** y **HOME** las podremos instalar de la siguiente manera: 
 
--**Para configurar JAVA_HOME:** 
+- **Para configurar JAVA_HOME:** 
 	
 1. Debemos dirigirnos hacia el panel de control >Sistema >Configuración avanzada del sistema >Variables del entorno.
 	
