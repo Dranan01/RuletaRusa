@@ -50,6 +50,7 @@ Para que este proyecto funcione primero deberás de tener **`java`** instalado, 
 
 	1.Realizaremos todos los pasos del punto anterior con la diferencia de que asignamos los siguientes valores: **_“Nombre de la variable“_**: PATH y **_“Valor de la variable”_**: **_%JAVA_HOME%\bin_**.
 	
+	Con esto ya quedarían configuradas las variables de entorno
 
 
 
