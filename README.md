@@ -30,6 +30,9 @@ Para descargar archivos de github debemos realizar los siguientes pasos
 
 ## Comprobar si java esta instalado y como añadir las variables de entorno
 
+
+![image](https://user-images.githubusercontent.com/79007014/110000145-44612580-7d13-11eb-9a67-297cf5272233.png)
+
 ## Compilar y ejecutar la aplicación por consola
 
 ## Manual de uso de la aplicación
