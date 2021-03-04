@@ -46,13 +46,13 @@ En caso de no tener las variables de entorno **PATH** y **HOME** las podremos in
 
 - **Para configurar JAVA_HOME:** 
 	
-1. Debemos dirigirnos hacia el panel de control >Sistema >Configuración avanzada del sistema >Variables del entorno.
+	1. Debemos dirigirnos hacia el panel de control >Sistema >Configuración avanzada del sistema >Variables del entorno.
 	
-2. Pulsaremos en la opción "Nueva"  y le asignamos como **_“Nombre de la variable”_**: **JAVA_HOME** y como **_“Valor de variable”_** el path o ruta donde hemos instalado el JDK de nuestro java. Hay que reiniciar Windows tras realizar esto
+	2. Pulsaremos en la opción "Nueva"  y le asignamos como **_“Nombre de la variable”_**: **JAVA_HOME** y como **_“Valor de variable”_** el path o ruta donde hemos instalado el JDK de nuestro java. Hay que reiniciar Windows tras realizar esto
 	
 - **Para configurar PATH:**
 
-1. Realizaremos todos los pasos del punto anterior con la diferencia de que asignamos los siguientes valores: **_“Nombre de la variable“_**: PATH y **_“Valor de la variable”_**: **_%JAVA_HOME%\bin_**.
+	1. Realizaremos todos los pasos del punto anterior con la diferencia de que asignamos los siguientes valores: **_“Nombre de la variable“_**: PATH y **_“Valor de la variable”_**: **_%JAVA_HOME%\bin_**.
 	
 Con esto ya quedarían configuradas las variables de entorno
 
